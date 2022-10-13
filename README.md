@@ -26,5 +26,9 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+<h2 align="left"> Snake eating my contribution graph</h2>
+
+![snake gif](https://github.com/DaniilEvdokimov/DaniilEvdokimov/blob/output/github-contribution-grid-snake.gif)
+
 <h2 align="left"> Have you read to the end? Here's a joke for you! </h2>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
