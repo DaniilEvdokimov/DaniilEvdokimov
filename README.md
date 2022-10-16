@@ -4,7 +4,7 @@
 <h2 align="left"> About me</h2>
 <h4 align="left"> Areas of interest:</h4> 
 <h4 align="left"> • ➗Algorithms & Data structures</h4>
-<h4 align="left"> • 🌐Web scraping</h4>
+<h4 align="left"> • 🌐Backend/Frontend</h4>
 <h4 align="left"> • 🤖Machine Learning</h4>
 <h4 align="left"> • 🔓Ethical hacking</h4>
 <h4 align="left"> Now I am a studying at the WB Tech Intern School.</h4> 
