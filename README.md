@@ -7,7 +7,6 @@
 <h4 align="left"> • 🌐Backend/Frontend</h4>
 <h4 align="left"> • 🤖Machine Learning</h4>
 <h4 align="left"> • 🔓Ethical hacking</h4>
-<h4 align="left"> Now I am a studying at the WB Tech Intern School.</h4> 
 <h2 align="left"> Contact me</h2>
 <h4 align="left">Find me on <a href="https://github.com/DaniilEvdokimov" target="_blank">GitHub</a> / <a href="https://t.me/DanikEvdokimov" target="_blank">Telegram</a> / <a href="https://vk.com/dan_evdokimov" target="_blank">VK</a> or just say Hello at <a href="mailto:daniil.evdockimov@gmail.com">daniil.evdockimov@gmail.com</a></h4>
 <h2 align="left"> Languages & Frameworks</h2>
